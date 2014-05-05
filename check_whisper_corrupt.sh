@@ -11,7 +11,7 @@
 #  REQUIREMENTS: Needs to be able to read/write to the storage directory
 #          BUGS: None Known.
 #         NOTES: ---
-#        AUTHOR: Kurt Abersold (KSA), kabersold@gmail.com
+#        AUTHOR: Kurt Abersold (KSA), kurtabersold@gmail.com
 #       COMPANY: 
 #       CREATED: 04/28/2014 10:46:00 AM PDT
 #      REVISION: Alf
